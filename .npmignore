@@ -1,0 +1,7 @@
+.*
+*.md
+*.yml
+node_modules/
+test/
+docs/
+assets/
